@@ -1,5 +1,7 @@
 # Document Q&A (RAG from scratch)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dos1k77/doc-qa-rag/blob/main/demo.ipynb)
+
 Ask questions about your own `.txt` / `.md` files. The program finds the most
 relevant passages and asks an LLM (Google Gemini) to answer **only from those
 passages**, with citations like `[1]`.
